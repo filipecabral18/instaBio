@@ -8,4 +8,4 @@ Route::get('/admin', 'AdminController@index');
 
 Route::get('/{slug}', 'PageController@index');
 
-//Parei o vídeo em 57:01
+//Parei o vídeo em 1:26:52
